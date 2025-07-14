@@ -1,6 +1,6 @@
 # Hello! I'm Varshith, a CompSci student from India👋:
-🌱 I’m currently learning Machine Learning <br>
-🔭 I’m currently working on My Portfolio <br>
+🌱 I’m currently learning Machine Learning & backend <br>
+🔭 I’m currently working on integrating databases with backends to create a small social-media type project. <br>
 ⚡ Fun fact Biting your tongue is the first friendly fire you've experienced.
 
 ## 🌐 Find me:
